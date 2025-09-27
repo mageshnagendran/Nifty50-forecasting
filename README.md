@@ -17,6 +17,12 @@
 - **Period:** 2000–2035 (Forecast)
 - **Columns Predicted:** Open, High, Low, Close
 
+<p align="center">
+  <a>
+    <img src="https://github.com/mageshnagendran/Nifty50-forecasting/blob/main/outputs/nifty/prophet_forecast.png" alt="Magesh" />
+  </a>
+</p>
+
 ---
 
 ## ✅ Build steps
