@@ -26,7 +26,9 @@
 pip install -r requirements.txt
 python nifty50_forecast.py
 ```
+---
 
+```
 🙋‍♀️ Author
 Magesh Kumar Nagendran
 Data Analytics | OpenSource Enthusiast
