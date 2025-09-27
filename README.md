@@ -1,7 +1,5 @@
 # 📈 Nifty 50 Stock Market Forecasting (2000–2035)
 
-Nifty 50 data to forecast stock prices using four time series models
-
 ---
 
 ## 🔧 Tools & Technologies Used
