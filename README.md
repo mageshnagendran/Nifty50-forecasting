@@ -33,4 +33,9 @@ python nifty50_forecast.py
 Magesh Kumar Nagendran
 Data Analytics | OpenSource Enthusiast
 Email: magesh2010it@gmail.com 
+```
+
+## Contributing
+
+This project welcomes contributions and suggestions.
 
